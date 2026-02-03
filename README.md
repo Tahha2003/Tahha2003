@@ -118,16 +118,15 @@ I have hands-on experience across the complete software development lifecycle â€
 
 ## ğŸ“Š GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tahha2003&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=Tahha2003&show_icons=true&include_all_commits=true&count_private=true&theme=dark)
+![](https://nirzak-streak-stats.vercel.app/?user=Tahha2003&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tahha2003&layout=compact&theme=dark)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Tahha2003&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tahha2003&layout=compact&theme=dark)
 
 ---
 
 ## ğŸ† GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Tahha2003&theme=onedark)
+![](https://github-profile-trophy.vercel.app/?username=Tahha2003&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
@@ -139,7 +138,5 @@ I have hands-on experience across the complete software development lifecycle â€
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tahhaaleem@gmail.com)
 
 ---
-
-![Profile Views](https://visitcount.itsvg.in/api?id=Tahha2003&icon=0&color=0)
 
 ğŸš€ *Always open to collaboration, innovative ideas, and building impactful tech together.*

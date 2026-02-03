@@ -117,14 +117,17 @@ I have hands-on experience across the complete software development lifecycle �
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tahha2003&theme=dark&include_all_commits=true&count_private=true)
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Tahha2003&theme=dark)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tahha2003&theme=dark)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Tahha2003&theme=dark)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tahha2003&layout=compact&theme=dark)
 
 ---
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Tahha2003&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Tahha2003&theme=onedark)
 
 ---
 

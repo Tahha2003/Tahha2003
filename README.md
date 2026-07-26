@@ -122,6 +122,9 @@ Machine Learning system that predicts real estate prices using Linear Regression
 #### ❤️ CardioPredict
 Production-ready Machine Learning system that predicts cardiovascular disease risk using patient health indicators and predictive analytics.
 
+#### 🤖 AI Voice Agent
+An AI Voice Agent that books medical appointments through real phone calls.
+
 ---
 
 ### 🌐 Full-Stack Web Development

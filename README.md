@@ -98,6 +98,9 @@ I'm passionate about solving real-world problems through clean code, scalable sy
 
 ### 🤖 Artificial Intelligence / Machine Learning
 
+#### 🤖 AI Voice Agent
+A fully functional voice AI agent that registers patients through natural phone conversations, persists data to a database, and exposes a complete REST API
+
 #### 🧠 Brain Tumor Detection System
 Computer Vision project using **OpenCV** and **MATLAB** to detect brain tumors from MRI scans through image processing and machine learning techniques.
 
@@ -121,9 +124,6 @@ Machine Learning system that predicts real estate prices using Linear Regression
 
 #### ❤️ CardioPredict
 Production-ready Machine Learning system that predicts cardiovascular disease risk using patient health indicators and predictive analytics.
-
-#### 🤖 AI Voice Agent
-An AI Voice Agent that books medical appointments through real phone calls.
 
 ---
 

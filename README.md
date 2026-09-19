@@ -277,9 +277,9 @@ Enterprise-scale airport network infrastructure designed using Cisco Packet Trac
 
 ---
 
-### ☕
+### ➕ Other
 
-#### Java POS System
+#### ☕ Java POS System
 
 Comprehensive Java-based Point of Sale (POS) system developed for restaurants and retail businesses.
 

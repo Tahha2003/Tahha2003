@@ -1,12 +1,10 @@
 # 👋 Hi, I’m Rizwan Aleem Tahha
 
-## 🚀 Software Engineer | Full-Stack Developer | AI & Cloud Solutions Engineer
+## 🚀 Software Engineer | Full-Stack Developer | AI & Networking Engineer
 
-Software Engineer with a Bachelor's degree in Software Engineering and hands-on experience in designing, developing, and deploying modern software solutions. Skilled in **Full-Stack Web Development, Artificial Intelligence, Machine Learning, Cloud Computing, and scalable backend systems**.
+Software Engineer with a Bachelor's degree in Software Engineering and hands-on experience in designing, developing, and deploying modern software solutions. Skilled in full-stack web development, software architecture, database management, artificial intelligence, cloud technologies, and computer networking. Currently expanding expertise in enterprise networking, switching, routing, wireless technologies, network security, and network automation through Cisco Networking Academy and CCNA-focused training.
 
-I specialize in building **production-ready web applications**, **RESTful APIs**, **AI-powered solutions**, **enterprise software**, and **cloud-ready systems** using modern technologies. My technical expertise spans the complete **Software Development Life Cycle (SDLC)** — from software design, architecture, UI/UX development, and responsive frontend engineering to backend development, database optimization, DevOps, software testing, and deployment.
-
-I'm passionate about solving real-world problems through clean code, scalable system design, AI-driven innovation, and continuous learning while contributing effectively in Agile software development environments.
+Experienced in building scalable web applications, RESTful APIs, AI-powered systems, data-driven solutions, and security-focused IoT platforms. Strong understanding of software engineering principles including software design, software construction, algorithms, operating systems, computer networks, software quality assurance, project management, and software re-engineering. Passionate about developing secure, scalable, and reliable technology solutions while continuously expanding expertise across software engineering, AI, cloud, networking, and cybersecurity.
 
 ---
 
@@ -47,6 +45,12 @@ I'm passionate about solving real-world problems through clean code, scalable sy
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23ffffff.svg?style=plastic&logo=opencv&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=plastic&logo=MathWorks&logoColor=white)
+
+---
+
+### 🌐 Computer Networking
+
+TCP/IP | OSI Model | IPv4/IPv6 | Subnetting | Ethernet | Switching | Routing | VLANs | Inter-VLAN Routing | Wireless Networking | Network Security Fundamentals | Network Troubleshooting
 
 ---
 
@@ -98,7 +102,7 @@ I'm passionate about solving real-world problems through clean code, scalable sy
 
 ### 🤖 Artificial Intelligence / Machine Learning
 
-#### 🤖 AI Voice Agent
+#### 🤖 MediBook Voice Agent
 A fully functional voice AI agent that registers patients through natural phone conversations, persists data to a database, and exposes a complete REST API
 
 #### 🧠 Brain Tumor Detection System
@@ -385,11 +389,25 @@ Comprehensive Java-based Point of Sale (POS) system developed for restaurants an
 - 📈 Agile Project Management
 - 🔄 Version Control (Git & GitHub)
 - 🚀 Performance Optimization
+- 🌐 Computer Networking
+- 🔗 TCP/IP & OSI Model
+- 🔀 Switching & Routing
+- 📡 IPv4/IPv6 Addressing & Subnetting
+- 📶 Wireless Networking
 - 🧩 Problem Solving & Analytical Thinking
 
 ---
 
 ## 📜 Certifications
+
+🏅 **CCNA: Introduction to Networks**
+**Cisco Networking Academy** — In Progress 2026
+
+🏅 **CCNA: Switching, Routing, and Wireless Essentials**
+**Cisco Networking Academy** — In Progress 2026
+
+🏅 **CCNA: Enterprise Networking, Security, and Automation**
+**Cisco Networking Academy** — In Progress 2026
 
 🏅 **Fundamentals of Machine Learning & Artificial Intelligence**  
 **AWS Training & Certification** — March 2024
